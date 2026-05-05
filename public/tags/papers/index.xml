@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Papers on FQ Group - Tianjin University</title>
-    <link>http://localhost:1313/tags/papers/</link>
+    <link>https://damonsky.github.io/fq-group-website/tags/papers/</link>
     <description>Recent content in Papers on FQ Group - Tianjin University</description>
     <generator>Hugo</generator>
     <language>en</language>
     <lastBuildDate>Tue, 05 May 2026 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/tags/papers/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://damonsky.github.io/fq-group-website/tags/papers/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Publications</title>
-      <link>http://localhost:1313/publications/</link>
+      <link>https://damonsky.github.io/fq-group-website/publications/</link>
       <pubDate>Tue, 05 May 2026 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publications/</guid>
+      <guid>https://damonsky.github.io/fq-group-website/publications/</guid>
       <description>&lt;h1 id=&#34;publications&#34;&gt;Publications&lt;/h1&gt;&#xA;&lt;h2 id=&#34;selected-publications&#34;&gt;Selected Publications&lt;/h2&gt;&#xA;&lt;h3 id=&#34;2026&#34;&gt;2026&lt;/h3&gt;&#xA;&lt;ol&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;Xin D. Gao#, Maximiliano Presa#, Jordyn E. Duby, Jennifer Ryan, Pierre-Alexandre Piec, Alvin Hsu, Samagya Banskota, Allen Yujie Jiang, Lingxiao Chen, Gregory A. Newby, Erminia Di Pietro, Jonathan M. Levy, Bradford H. Steele, Sarah Lecordier, &lt;strong&gt;&lt;!-- raw HTML omitted --&gt;Fangfei Qin&lt;!-- raw HTML omitted --&gt;&lt;/strong&gt;, Ann B. Moser, Jun Xie, Guangping Gao, Nancy E. Braverman, Aamir R. Zuberi, Joseph G. Hacia, Cathleen M. Lutz* &amp;amp; David R. Liu*&lt;br&gt;&#xA;&lt;em&gt;Rescue of Zellweger Spectrum Disorder in mice and in patient cells by base editing.&lt;/em&gt;&lt;br&gt;&#xA;&lt;strong&gt;Nature Biomedical Engineering&lt;/strong&gt; 2026 DOI: 10.1038/s41551-026-01651-5.&lt;/p&gt;</description>
     </item>
   </channel>
