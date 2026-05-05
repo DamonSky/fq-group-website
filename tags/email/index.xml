@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Email on FQ Group - Tianjin University</title>
+    <link>https://damonsky.github.io/fq-group-website/tags/email/</link>
+    <description>Recent content in Email on FQ Group - Tianjin University</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Tue, 05 May 2026 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://damonsky.github.io/fq-group-website/tags/email/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Contact</title>
+      <link>https://damonsky.github.io/fq-group-website/contact/</link>
+      <pubDate>Tue, 05 May 2026 00:00:00 +0000</pubDate>
+      <guid>https://damonsky.github.io/fq-group-website/contact/</guid>
+      <description>&lt;h1 id=&#34;contact&#34;&gt;Contact&lt;/h1&gt;&#xA;&lt;p&gt;&lt;strong&gt;Email:&lt;/strong&gt; &lt;a href=&#34;mailto:fangfeiqin@tju.edu.cn&#34;&gt;fangfeiqin@tju.edu.cn&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
