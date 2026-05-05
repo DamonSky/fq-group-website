@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Genome Evolution on FQ Group - Tianjin University</title>
+    <link>http://localhost:1313/tags/genome-evolution/</link>
+    <description>Recent content in Genome Evolution on FQ Group - Tianjin University</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Tue, 05 May 2026 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/genome-evolution/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Principal Investigator</title>
+      <link>http://localhost:1313/about/</link>
+      <pubDate>Tue, 05 May 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/about/</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;http://localhost:1313/images/pi/fangfei-qin.jpg&#34; alt=&#34;Fangfei Qin, Ph.D.&#34;&gt;&lt;/p&gt;&#xA;&lt;h1 id=&#34;fangfei-qin-phd&#34;&gt;Fangfei Qin, Ph.D.&lt;/h1&gt;&#xA;&lt;h2 id=&#34;associate-professor&#34;&gt;Associate Professor&lt;/h2&gt;&#xA;&lt;p&gt;&lt;strong&gt;Position:&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Core Member at State Key Laboratory of Synthetic Biology&lt;/li&gt;&#xA;&lt;li&gt;Associate Professor at Tianjin University, School of Synthetic Biology and Biomanufacturing&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;hr&gt;&#xA;&lt;h2 id=&#34;biography&#34;&gt;Biography&lt;/h2&gt;&#xA;&lt;p&gt;Dr. Fangfei Qin is a core member of the State Key Laboratory of Synthetic Biology and an associate professor in the School of Synthetic Biology and Biomanufacturing, Tianjin University. She started her lab in 2025 to develop chemical biology and genomic tools to better understand chromatinized microenvironment for genetic disease therapy.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Research</title>
+      <link>http://localhost:1313/research/</link>
+      <pubDate>Tue, 05 May 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/research/</guid>
+      <description>&lt;h1 id=&#34;our-research&#34;&gt;Our Research&lt;/h1&gt;&#xA;&lt;p&gt;&lt;strong&gt;Development of innovative tools for chromatin biology, gene therapy, and genome evolution studies&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;h2 id=&#34;-1-spatio-temporal-chemical-and-biological-tools-development&#34;&gt;🔬 1. Spatio-temporal Chemical and Biological Tools Development&lt;/h2&gt;&#xA;&lt;p&gt;&lt;strong&gt;Development and application of spatio-temporal chemical tools to study Chromatinized multi-omics:&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;img src=&#34;http://localhost:1313/images/research/sitomics-workflow.png&#34; alt=&#34;SiTomics Workflow&#34; title=&#34;SiTomics 工作流程示意图&#34;&gt;&lt;/p&gt;&#xA;&lt;h3 id=&#34;1-sitomics-strategy-for-dynamic-histone-modifications&#34;&gt;1) SiTomics Strategy for Dynamic Histone Modifications&lt;/h3&gt;&#xA;&lt;p&gt;System-wide analysis of dynamic histone modifications in the context of unperturbed chromatin is key to our understanding of the orchestration between metabolic homeostasis and transcriptional regulation in health and disease.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

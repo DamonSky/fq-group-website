@@ -1,0 +1,19 @@
+<!-- 单个研究板块 -->
+<a href="{{ .Get "link" }}" class="research-card">
+  <div class="research-card-inner">
+    {{ if .Get "image" }}
+    <div class="research-image">
+      <img src="{{ .Get "image" }}" alt="{{ .Get "title" }}">
+    </div>
+    {{ end }}
+    <div class="research-content">
+      <h3>{{ .Get "title" }}</h3>
+      <p class="summary">{{ .Get "summary" }}
+      <div class="tags">
+        {{ range $tag := split (.Get "tags") "," }}
+          <span class="tag">{{ trim $tag }}</span>
+        {{ end }}
+      </div>
+    </div>
+  </div>
+</a>

@@ -1,0 +1,19 @@
+{{ define "head" }} {{ end }} 
+{{ define "title" }} {{ .Site.Title }} {{ end }} 
+{{ define "main" }}
+  {{- partial "sections/hero/index.html" . -}}
+  
+  <!-- 添加您的内容区域 -->
+  <section class="section">
+    <div class="container">
+      {{ .Content }}
+    </div>
+  </section>
+  
+  {{- partial "sections/about.html" . -}}
+  {{- partial "sections/experience.html" . -}}
+  {{- partial "sections/education.html" . -}}
+  {{- partial "sections/projects.html" . -}}
+  {{- partial "sections/achievements.html" . -}}
+  {{- partial "sections/contact.html" . -}}
+{{ end }}

@@ -1,0 +1,54 @@
+baseURL = "http://localhost:1313/"
+defaultContentLanguage = "en"
+defaultContentLanguageInSubdir = false
+title = "FQ Group - Tianjin University"
+theme = "hugo-profile"
+ignoreLogs = ['warning-goldmark-raw-html']
+
+[params]
+title = "FQ Group"
+subtitle = "Spatio-temporal Chromatinized-omics for Genome Evolution Study"
+description = "Development and application of chemical biology and synthetic biology tools in living systems"
+email = "fangfeiqin@tju.edu.cn"
+custom_css = ["css/custom.css"]
+
+[menu]
+[[menu.main]]
+name = "Home"
+url = "/"
+weight = 1
+
+[[menu.main]]
+name = "Research"
+url = "/research/"
+weight = 2
+
+[[menu.main]]
+name = "PI"
+url = "/about/"
+weight = 3
+
+[[menu.main]]
+name = "Group Members"
+url = "/members/"
+weight = 4
+
+[[menu.main]]
+name = "Publications"
+url = "/publications/"
+weight = 5
+
+[[menu.main]]
+name = "Lab Gallery"
+url = "/gallery/"
+weight = 6
+
+[[menu.main]]
+name = "Contact"
+url = "/contact/"
+weight = 7
+
+[[menu.main]]
+name = "Links"
+url = "/links/"
+weight = 8
